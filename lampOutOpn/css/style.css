@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: black;
+}
+
+.container-area{
+    margin-top: 30px;
+}
+#open{
+    border: 1px solid black;
+    width: 140px;
+    height: 60px;
+    color: #fff;
+    background-color: rgb(17, 221, 102);
+    padding: 20px 50px;
+    font-size: 18px;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+
+#out{
+    border: 1px solid black;
+    width: 90px;
+    height: 60px;
+    color: #fff;
+    background-color: rgb(223, 12, 12);
+    padding: 20px 40px;
+    font-size: 18px;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.img{
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
